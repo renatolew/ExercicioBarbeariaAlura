@@ -1,4 +1,4 @@
 # ExercicioBarbeariaAlura
-Código escrito por mim para pratica básica de HTML e CSS da formação Alura.
+Code written by me as an exercise project to the HTML and CSS Alura formation.
 
-Apenas para uso educativo e para compartilhar com tutores, instrutores e colegas. Apesar disto, qualquer feedback construtivo em como melhorar meu código é bem vindo.
+Only meant to be used for educative purposes and to share my improvement with tutors, instructors and colleagues, altough every kind of constructive feedback on how to improve my code is welcome!
